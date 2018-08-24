@@ -12,7 +12,6 @@ BudderReader - needs
 
  */
 
-
 public class FileExample {
 
 	public static void main(String[] args) throws IOException {
