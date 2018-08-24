@@ -1,0 +1,32 @@
+ **** Files **** 
+
+3 Ways to Read File
+
+1. File Reader :-
+	 Character by character
+	 characterStream
+	 returns -1 when done checking
+	 
+2.BufferReader :-
+	reads by buffering
+	return when !=null
+
+3. Scanner
+	reads line by line
+	returns when there's no next line sc.hasNextLine()
+	
+****	String Format *****
+
+int a = 2;
+String s = "HELLO";
+String k = "World";
+
+system.out.Printf(%s %d %s, s,a,k);
+
+Files
+1.Read about file handling in Java
+
+Create try and catch block IOExpection
+and close
+
+Printf and StringFormat
